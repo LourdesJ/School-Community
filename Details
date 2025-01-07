@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+
+    <link rel="stylesheet" href="style.css">
+  <body>
+     
+    <h1> School </h1>
+    <img src="colllege.jpeg" alt="Image description">
+    <a href="college.html">Click here</a>
+    <p> Talks about how student achieve to college </p>
+    <br>
+    
+    
+    <img src="girls.jpeg" alt="Image description">
+    <a href="Community.html">Click here</a>
+    <p> Talks about the community of students</p>
+      <br>
+    
+    
+    <img src="School.jpeg" alt="Image description" > 
+    <a href="class.html">Click here</a>
+    <p> Talk about the status of students in class</p>
+      <br>
+  </body>
+</html>
