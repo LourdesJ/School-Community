@@ -1,0 +1,53 @@
+body {
+  background: #1e054a;
+}
+p {
+  color: #14e6ac;
+  font-family: monospace
+    font-weight: bold;
+}
+h1 {
+  font-weight: bold;
+  color:#d4d1e8;
+  font-family: sans-serif;
+}
+h2{
+color: aliceblue;
+  font-weight: bold;
+}
+
+
+h3{
+  color:aliceblue;
+    font-weight: bold;
+}
+
+li {
+  color: #14e6ac;
+  font-style: italic;
+  font-family: monospace
+    font-weight: bold;
+  
+}
+
+
+.container-1 {
+  /* The div container has a background color so you can see how the items are positioned within it */
+  
+
+  /* Create a flex layout context */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+    align-items:space-evenly;
+ 
+}
+
+.card {
+  
+}
+ 
+
+
+
